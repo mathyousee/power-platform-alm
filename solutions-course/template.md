@@ -1,6 +1,5 @@
 ---
-title: Introduction to Solutions
-parent: Module 1-Solution basics
+title: Lesson Template
 permalink: /solution/basics/introduction-to-solutions/
 layout: single
 sidebar:
