@@ -1,0 +1,40 @@
+main:
+  - title: "Solutions Course"
+    url: /solutions-course-overview
+  - title: "Feedback"
+    url: /feedback
+
+solutions: 
+  - title: Course Overview
+    children:
+      - title: "Overview"
+      - url: /solutions-course-overview
+
+  - title: Module 1 - Solutions basics
+    children:
+      - title: "Why do solutions matter?"
+        url: /test
+      - title: "What kinds of solutions are there?"
+        url: /test
+      - title: "What is a Publisher and why should I create one?"
+        url: /test
+      - title: "How do I create a new solution?"
+        url: /test
+      - title: "What do I add to my solution?"
+        url: /test
+      - title: "How do I export my solution?"
+        url: /test
+      - title: "How do I import my solution?"
+        url: /test
+      - title: "What does it mean to publish my solution after importing it?"
+        url: /test
+
+  - title: Module 2 - Beyond the basics of solutions
+    children:
+      - title: "--coming soon--"
+        url: 
+
+  - title: Module 3 - Solutions in specific situations
+    children:
+      - title: "--coming soon--"
+        url: 
